@@ -1,0 +1,7 @@
+{
+    "name": "maxim/dummy-proj",
+    "type": "library",
+    "minimum-stability": "beta",
+    "require": {},
+    "version": "0.2.0"
+}
